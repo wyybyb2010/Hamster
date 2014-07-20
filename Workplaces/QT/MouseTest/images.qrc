@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bt001.png</file>
+        <file>images/bt02.png</file>
+        <file>images/bt002.png</file>
+        <file>images/bt03.png</file>
+        <file>images/hitOn.png</file>
+        <file>images/lvl01.png</file>
+        <file>images/lvl04.png</file>
+        <file>images/lvl18.png</file>
+        <file>images/lvl20.png</file>
+        <file>images/lvl21.png</file>
+        <file>images/nonstop.png</file>
+        <file>images/Options.png</file>
+        <file>images/Refresh.png</file>
+        <file>images/start.png</file>
+        <file>images/stop.png</file>
+        <file>images/u.gif</file>
+        <file>images/u.png</file>
+        <file>images/bg002.png</file>
+        <file>images/u001.png</file>
+        <file>images/u002.png</file>
+        <file>images/iTunes.icns</file>
+        <file>images/qt1.png</file>
+        <file>images/u03.png</file>
+    </qresource>
+</RCC>

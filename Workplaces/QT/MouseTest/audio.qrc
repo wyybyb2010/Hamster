@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/pzmusic.wav</file>
+        <file>audio/exception.wav</file>
+        <file>audio/highend.wav</file>
+        <file>audio/hitOn.wav</file>
+        <file>audio/lowend.wav</file>
+        <file>audio/step.wav</file>
+        <file>audio/app.wav</file>
+        <file>audio/axload.wav</file>
+        <file>audio/recvfile.wav</file>
+    </qresource>
+</RCC>
